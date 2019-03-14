@@ -16,5 +16,7 @@ function nameToAttributes(drivers) {
 
 function attributesToPhrase(drivers) {
   
+  
+  return "${driverName} is from ${driverHomeTown"
 }
 
